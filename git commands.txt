@@ -1,0 +1,21 @@
+git config --global user.name "your username"
+
+git config --global user.email "your email"
+
+git clone https://github.com/arshsingh19/hello-world.git
+
+cd hello-world
+
+git add -A
+
+git status
+
+git commit -m "first add on hub"
+
+git status
+
+git push -u origin master
+
+
+
+
